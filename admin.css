@@ -1,0 +1,11 @@
+body {
+    background-image: url(Padrao-fotos-site-20-1170x658.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.navbar-brand {
+    font-size: 200%;
+    text-align: center;
+    margin-left: 430%;
+}

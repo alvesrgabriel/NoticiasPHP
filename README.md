@@ -1,2 +1,1 @@
-# NoticiasPHP
-trabalho de php
+# Noticias
